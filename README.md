@@ -1,4 +1,4 @@
-## Just-render
+## Just-render (WIP)
 
 Generate HTML elements in Javascript by writing HTML strings only.
 
